@@ -1,0 +1,13 @@
+Random dice results:
+🎲1 + 🎲6 = 7
+
+Type "exit" to quit, or anything else to continue rolling. 
+>>anything else
+
+Random dice results:
+🎲5 + 🎲4 = 9
+
+Type "exit" to quit, or anything else to continue rolling. 
+>>exit
+
+Goodbye!
